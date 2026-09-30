@@ -1,0 +1,16 @@
+alert_id,timestamp,source_ip,username,event_type,severity,status
+ALT001,2026-09-25 08:15:00,192.168.1.10,admin,Brute Force,High,Open
+ALT002,2026-09-25 08:20:00,10.0.0.25,user1,Phishing,High,Investigating
+ALT003,2026-09-25 08:35:00,172.16.0.8,user2,Malware,Critical,Open
+ALT004,2026-09-25 09:00:00,192.168.1.15,admin,Failed Login,Medium,Closed
+ALT005,2026-09-25 09:12:00,10.0.0.30,user3,Port Scan,Medium,Investigating
+ALT006,2026-09-25 09:30:00,192.168.1.20,user4,Suspicious Login,High,Open
+ALT007,2026-09-25 09:45:00,172.16.0.10,user5,Phishing,High,Closed
+ALT008,2026-09-25 10:00:00,192.168.1.10,admin,Brute Force,High,Investigating
+ALT009,2026-09-25 10:15:00,10.0.0.25,user1,Malware,Critical,Open
+ALT010,2026-09-25 10:30:00,172.16.0.8,user2,Port Scan,Low,Closed
+ALT011,2026-09-25 10:45:00,192.168.1.30,user6,Failed Login,Medium,Closed
+ALT012,2026-09-25 11:00:00,10.0.0.40,user7,Suspicious Login,High,Open
+ALT013,2026-09-25 11:15:00,192.168.1.10,admin,Brute Force,High,Open
+ALT014,2026-09-25 11:30:00,10.0.0.25,user1,Phishing,Medium,Closed
+ALT015,2026-09-25 11:45:00,172.16.0.8,user2,Malware,Critical,Investigating
